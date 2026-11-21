@@ -1,4 +1,6 @@
-![RiK logo](rik-logo-tagline.png)
+<p align="center">
+  <img src="rik-logo-tagline.png" alt="RiK — Tech That Works for You" width="500">
+</p>
 # Hi, I'm Pramod Dhyani 👋
 
 **Web Developer | SaaS & Web Product Builder | Tech Creator**
