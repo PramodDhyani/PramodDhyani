@@ -1,13 +1,9 @@
 <p align="center">
   <img src="rik-logo-tagline.png" alt="RiK — Tech That Works for You" width="500">
 </p>
-# Hi, I'm Pramod Dhyani 👋
+I build practical web tools, SaaS platforms, and developer-focused products under an independent technology brand.
 
-**Web Developer | SaaS & Web Product Builder | Tech Creator**
-
-I’m the founder of **RiK**, an independent technology brand focused on building practical web tools, SaaS platforms, and developer-focused products.
-
-I enjoy turning ideas into useful, scalable digital products with a focus on usability, performance, and long-term maintainability.
+I enjoy turning ideas into useful, scalable digital products, with a focus on usability, performance, and long-term maintainability.
 
 ## My Work
 
