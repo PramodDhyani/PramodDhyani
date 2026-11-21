@@ -1,3 +1,4 @@
+![RiK logo](rik-logo-tagline.png)
 # Hi, I'm Pramod Dhyani 👋
 
 **Web Developer | SaaS & Web Product Builder | Tech Creator**
