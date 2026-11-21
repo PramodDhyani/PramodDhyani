@@ -1,48 +1,24 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c58c9301-2b03-4708-b8b4-f7a9f7909172" width="150" alt="PureX Logo" />
-</p>
+# Hi, I'm Pramod Dhyani 👋
 
-<h1 align="center">Pramod Dhyani</h1>
+**Web Developer | SaaS & Web Product Builder | Tech Creator**
 
-<p align="center">
-  <b>CTO, PureX — AI Systems & Agents</b><br>
-  Tech Creator @ <a href="https://rikhnikhal.com">rikhnikhal.com</a>
-</p>
+I’m the founder of **RiK**, an independent technology brand focused on building practical web tools, SaaS platforms, and developer-focused products.
 
-<p align="center">
-  <a href="https://twitter.com/PramodDhyani11">Twitter</a> •
-  <a href="https://www.linkedin.com/in/pramoddhyani/">LinkedIn</a> •
-  <a href="https://rikhnikhal.com">Website</a>
-</p>
+I enjoy turning ideas into useful, scalable digital products with a focus on usability, performance, and long-term maintainability.
 
----
+## My Work
 
-## 🚀 PureX Ecosystem (Quick Overview)
+- **[RiK Home Tools](https://rikhnikhal.com)** — Practical calculators and utilities for everyday tasks.
+- **RiK SitePulse** — An AI-powered website intelligence and maintenance platform.
+- **PurePath** — A completed AI mental-assistance software project.
 
-- **PurePrompt** — Intent engine  
-- **PureOrch** — Context + workflow controller  
-- **PureMemory** — 10-layer hybrid memory  
-- **PureREFRAG** — Retrieval + compression  
-- **PureMind** — Reasoning engine  
-- **PureCloud** — Orchestration + monitoring  
-- **PureLab** — AI-powered development environment  
-- **PureShield** — Security & governance  
-- **PureFinance** — Cost & API tracking  
-- **PureDocs** — Documentation automation  
-- **PureVault** — Notes + tasks + personal memory  
-- **PureCompute** — GPU & infra management  
-- **PureVision** — Document & camera AI *(Phase 2)*  
-- **PureVoice** — Speech input/output *(Phase 2)*  
+## Technologies
 
----
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS
+- **Backend & Data:** Node.js, Firebase, Supabase, PostgreSQL
+- **Infrastructure:** Cloudflare, serverless web infrastructure, deployment
 
-## ✨ What I Work On
-- AI agents & reasoning  
-- Memory architectures  
-- AI tooling & DX  
-- PureX ecosystem development  
-- Daily tech content @ RiK  
+## Connect
 
----
-
-<p align="center"><b>⚡ PureX — Intelligence. Memory. Agents. Tools. ⚡</b></p>
+- [Website](https://rikhnikhal.com)
+- [LinkedIn](https://www.linkedin.com/in/pramoddhyani/)
