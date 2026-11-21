@@ -1,6 +1,13 @@
+
+
 <p align="center">
   <img src="rik-logo-tagline.png" alt="RiK — Tech That Works for You" width="500">
 </p>
+
+# Hi, I'm Pramod Dhyani 👋
+
+**Web Developer | SaaS & Web Product Builder | Tech Creator**
+
 I build practical web tools, SaaS platforms, and developer-focused products under an independent technology brand.
 
 I enjoy turning ideas into useful, scalable digital products, with a focus on usability, performance, and long-term maintainability.
@@ -21,3 +28,4 @@ I enjoy turning ideas into useful, scalable digital products, with a focus on us
 
 - [Website](https://rikhnikhal.com)
 - [LinkedIn](https://www.linkedin.com/in/pramoddhyani/)
+
